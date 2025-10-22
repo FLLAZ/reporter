@@ -1,3 +1,12 @@
+/*
+Good evening.
+FLLAZ is looking for engineers like you.
+Join us https://fllaz.site/
+ーーーーーーーーーーーーーーーーーーーーーーーー
+こんばんは。
+FLLAZはあなたのようなエンジニアを募集しています。
+ぜひご参加ください https://fllaz.site/
+*/
 const status = document.getElementById("status");
 const reportIds = document.getElementById("reportID");
 const errorlog = document.getElementById("errorLog");
